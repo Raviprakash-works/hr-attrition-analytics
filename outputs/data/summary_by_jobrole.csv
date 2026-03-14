@@ -1,0 +1,10 @@
+JobRole,Total,Attrited,AttritionRate,AvgIncome,AvgSatisfaction
+Sales Representative,83,33,39.8,2626.0,2.74
+Laboratory Technician,259,62,23.9,3237.0,2.7
+Human Resources,52,12,23.1,4236.0,2.76
+Sales Executive,326,57,17.5,6924.0,2.73
+Research Scientist,292,47,16.1,3240.0,2.72
+Healthcare Representative,131,9,6.9,7529.0,2.74
+Manufacturing Director,145,10,6.9,7295.0,2.77
+Manager,102,5,4.9,17182.0,2.76
+Research Director,80,2,2.5,16034.0,2.69
